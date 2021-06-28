@@ -1,0 +1,36 @@
+hppy client h2 2.0rem
+p 1.1rem
+samtha h3 1.5rem
+h2 quick 2.1875rem defa
+ul li a 1.2rem
+sub 0.9rem
+img 300px
+img 200px
+
+item 1 pro 2.5rem
+smart life 3rem
+
+item 1 btn width 140px
+font size 0.9rem
+
+
+item 2 h1 3rem
+item 2 p 1.2rem
+item 2 .btnn  font:1rem 
+width 110px
+padding 7px
+
+
+.item3 .tem5 h2 : 1.1rem
+.item3 .tem5 p : 0.9rem
+
+ grid-template-columns: 250px 250px 250px 250px; 
+    grid-template-rows: 350px 350px;
+
+
+     height: 30px;
+    width: 110px;
+    padding: 7px;
+    font-size: 1rem;
+
+     font-size: 2.2rem;
